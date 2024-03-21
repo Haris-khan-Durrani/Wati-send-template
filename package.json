@@ -1,0 +1,28 @@
+{
+  "name": "wati-apis",
+  "version": "1.0.0",
+  "description": "This will Connect Wati Send template directly with one url so you dont have yto code for your CRM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haris-khan-Durrani/Wati-send-template.git"
+  },
+  "keywords": [
+    "Wati",
+    "Send-Template",
+    "send_template_by_get_endpoint"
+  ],
+  "author": "Haris Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haris-khan-Durrani/Wati-send-template/issues"
+  },
+  "homepage": "https://github.com/Haris-khan-Durrani/Wati-send-template#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^5.0.0-beta.2"
+  }
+}
