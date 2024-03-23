@@ -77,7 +77,7 @@ pageNumber: Page number to retrieve (default: 1)
 tenant: Your tenant ID
 Response Payload:
 json
-Copy code
+```bash
 {
   "options": [
     {
@@ -87,6 +87,7 @@ Copy code
     ...
   ]
 }
+```
 
 #### Authentication
 All endpoints require a bearer token in the Authorization header.
