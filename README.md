@@ -1,6 +1,6 @@
 # API Documentation
 This documentation provides an overview of the endpoints and functionalities of the API implemented in the provided code.
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/hariskha)
 ## Base URL
 ```bash
 http://localhost:3010
